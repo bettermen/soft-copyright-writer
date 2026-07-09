@@ -1,6 +1,6 @@
 ---
 name: soft-copyright-writer
-version: 1.0.0
+version: 1.0.1
 description: "AI software copyright (ruanzhu) application assistant. Guides users through the full process: info collection, material checklist generation, source code formatting, design document authoring, application form guidance, and pre-submission verification. Covers individual/enterprise/joint applications with 2026 latest requirements. Triggers: soft copyright, software copyright, ruanzhu, copyright registration, IP protection for software."
 description_zh: "AI软著申请全流程助手。覆盖信息收集、材料清单生成、源代码格式化、设计说明书撰写、申请表填写指导、提交前核验6大阶段。支持个人/企业/合作三种申请主体，适配2026年最新审查标准。触发词：软著、软件著作权、软著申请、软著材料、软著撰写、软件版权登记"
 user-invocable: true
